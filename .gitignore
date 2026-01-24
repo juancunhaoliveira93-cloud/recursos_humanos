@@ -1,0 +1,8 @@
+# Arquivos de sistema do Mac
+.DS_Store
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+bin/
